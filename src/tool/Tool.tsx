@@ -1,5 +1,5 @@
 import { useCallback, useMemo, useState, type ReactNode } from 'react';
-import { Button, ErrorBox, Panel, TextArea, Toolbar } from '../shell/ui';
+import { Button, ErrorBox, Panel, TextArea, Toolbar } from '@mmoall/tool-kit';
 import { parseJsonInput } from './json-parse';
 import { buildErrorExcerpt, type ErrorExcerpt } from './parse-error';
 import { computeJsonStats, utf8ByteSize, type JsonStats } from './json-stats';
