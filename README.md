@@ -7,6 +7,7 @@ over the network; everything runs in your browser.
 **Live:** https://techshield-tech.github.io/json-validator/
 
 Part of [MMOALL Developer Tools](https://mmoall.com/tools).
+Also available at [mmoall.com/tools/json-validator](https://mmoall.com/tools/json-validator).
 
 ## Features
 
